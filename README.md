@@ -1,11 +1,11 @@
 #### vectorx 0.1
 A simple vector calculator
 
-##Description
+## Description
 Welcome to VectoX. A simple vector calculator to help you in your everyday math
 problems.
 
-##Usage
+## Usage
 
 For calculating insert 1st vector, then operation
 (or "len" to get the length), and then next vector
@@ -22,7 +22,7 @@ Operations (op):
 len  :  length
 to quit press ctrl + c
 ```
-###Contact details
+### Contact details
 ```
 email: grigor.bezirganyan98@gmail.com
 ```
